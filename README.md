@@ -19,6 +19,6 @@
  To run server open folder on terminal or command propmt and type this command
  
  
- ```python app.py``` 
+ ```python <filename>.py``` 
  
  
